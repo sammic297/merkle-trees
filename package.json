@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/merkle-trees/issues"
   },
-  "homepage": "https://github.com/sammic297/merkle-trees#readme"
+  "homepage": "https://github.com/sammic297/merkle-trees#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
 }
